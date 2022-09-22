@@ -105,8 +105,8 @@ def Get_Intraday_Sticks(symbol):
         return df_sticks
 
         
-df = GetStockData('VND')
-print(df)
+# df = GetStockData('VND')
+# print(df)
 
 # symbol = 'VND'
 # df_data = GetStockData(symbol=symbol)
